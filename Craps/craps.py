@@ -19,8 +19,8 @@ def main():
             print("The sum of dice is {} + {} = {}".format(number_1, number_2, sum))
             print("Now your goal number is: {}".format(sum))
             while True:
-                num1 = randint(0,13)
-                num2 = randint(0,13)
+                num1 = randint(1,6)
+                num2 = randint(1,6)
                 sum_2 = num1 + num2
                 print("The sum of dice is {} + {} = {}".format(num1, num2, sum_2))
                 if (sum_2 == 7):
