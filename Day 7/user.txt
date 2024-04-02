@@ -1,0 +1,6 @@
+firstName,lastName,email,gender
+Roza,Kerobyan,roza@gmail.com,female
+Qnarik,Galoyan,qnarik@gmail.com,female
+Artash,Asatryan,artash@gmail.com,male
+Elena,Galstyan,elena@gmail.com,female
+Karen,Hakobyan,karen@gmail.com,male
