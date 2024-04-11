@@ -76,6 +76,3 @@ def input_template_two():
     print("INput a silly word: " + silly_word)
     print("Input noun: " + noun2)
     print("================================")
-
-    
-
