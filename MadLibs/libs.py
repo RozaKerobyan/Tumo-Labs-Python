@@ -19,7 +19,7 @@ if (random_numbers == 1):
 elif (random_numbers == 2):
     print("Your template is ===>>> " + template_2) 
     print("================================")
-    input_template_one()
+    input_template_two()
 elif (random_numbers == 3):
     print("Your template is ===>>> " + template_3)
     print("================================")
