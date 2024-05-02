@@ -26,5 +26,5 @@ I made a challenge to myself. A challenge is to learn something new every day, o
 
 [Calculator 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/calculator)
 
-[Rock Paper Scissors Game](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/rock_paper_scissors)
+[Rock Paper Scissors Game 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/rock_paper_scissors)
 
