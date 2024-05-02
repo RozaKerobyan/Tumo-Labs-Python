@@ -16,19 +16,15 @@ A new challenge at Tumo Labs to learn new things, gain new skills and connection
 
 I made a challenge to myself. A challenge is to learn something new every day, or find problems from different sources and solve 🧩
 
-[Day 1 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%201)
+[Card Validation 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/card_validation)
 
-[Day 2 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%202)
+[Guess Number 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/guess_number)
 
-[Day 3 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%203)
+[Generate Password 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/generate_password)
 
-[Day 4 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%204)
+[Food Shop 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/food_shop)
 
-[Day 5 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%205)
+[Calculator 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/calculator)
 
-[Day 6 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%206)
-
-[Day 7 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%207)
-
-[Day 8 🔗](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Day%208)
+[Rock Paper Scissors Game](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/rock_paper_scissors)
 
