@@ -12,6 +12,8 @@ A new challenge at Tumo Labs to learn new things, gain new skills and connection
 
 🔵 [BonusGame](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/BonusGame)
 
+🔵 [Duty On Challenge](https://github.com/RozaKerobyan/TumoLabsPython/tree/master/Duty%20On%20Challenge)
+
 # A challenge to myself 👩‍🚀
 
 I made a challenge to myself. A challenge is to learn something new every day, or find problems from different sources and solve 🧩
