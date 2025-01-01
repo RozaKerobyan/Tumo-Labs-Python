@@ -1,7 +1,7 @@
 # Print the title of the food market
-print("================================")
+print("===============================")
 print("Food market")
-print("================================")
+print("===============================")
 
 # Define the menu items and their prices
 menu = {
